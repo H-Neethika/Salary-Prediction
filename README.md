@@ -8,7 +8,7 @@ The [Stack Overflow Annual Developer Survey Dataset 2023](https://survey.stackov
 ## Technologies Used
 - Python
 - Streamlit
-- Machine Learning (Scikit-learn)
+- Scikit-learn
 - Pandas
 - NumPy
 
@@ -27,5 +27,5 @@ To run this project locally, follow these steps:
    
 4. Run the Streamlit app:
    ```bash
-   streamlit run predict_page.py
+   streamlit run app.py
 
